@@ -1,0 +1,21 @@
+# Flutter/Dart-specific
+.dart_tool/
+build/
+# iOS
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+# Android
+.android/
+# Web
+web/.dart_tool/
+web/index.html
+# VS Code
+.vscode/
+# macOS
+macos/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+macos/.symlinks/
+# Other
+*.log
